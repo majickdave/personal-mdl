@@ -1,4 +1,30 @@
 
+
+.dave-social {
+  color: white;
+  font-size: 15px;
+}
+
+footer {
+  margin: auto;
+  padding: 10px;
+}
+
+.dave-footer {
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-left: 5px;
+}
+
+.dave-spinner {
+  position: relative;
+
+}
+
+div > li ul {
+  padding: 50px;
+}
+
 .portfolio-header {
   position: relative;
   background-image: url(images/header-bg.jpg);
@@ -53,7 +79,7 @@
 
 
 img.article-image {
-  width: auto;
+  width: 100%;
   height: auto;
   position: relative;
 }
@@ -117,6 +143,7 @@ img.article-image {
   margin: auto;
 }
 
-.dave-emoji {
-  position: absolute;
+nav > a div {
+  padding-left: 10px;
+  padding-right: 10px;
 }
